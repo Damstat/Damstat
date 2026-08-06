@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 <p align="center">
   <img src="bannierP.jpeg" alt="Banner" width="100%">
 </p>
@@ -10,7 +10,7 @@
 <!-- Introduction -->
 <div align="center">
   <h1>👋 Bonjour, je suis Adama Sarr</h1>
-  <h3>AI Infrastructure Engineer</h3>
+  <h3>AI Infrastructure Engineer & Statitician </h3>
 
  [![Email](https://img.shields.io/badge/Email-adamasarr7837%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:adamasarr7837@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Damstat?logo=github&style=flat-square&color=0891b2)](https://github.com/Damstat)
@@ -23,15 +23,15 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Ramadiaw12/Ramadiaw12/output/github-contribution-grid-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/Damstat/Damstat/output/github-contribution-grid-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Ramadiaw12/Ramadiaw12/output/github-contribution-grid-snake.svg"
+      srcset="https://raw.githubusercontent.com/Damstat/Damstat/output/github-contribution-grid-snake.svg"
     />
     <img
       alt="GitHub contribution snake"
-      src="https://raw.githubusercontent.com/Ramadiaw12/Ramadiaw12/output/github-contribution-grid-snake.svg"
+      src="https://raw.githubusercontent.com/Damstat/Damstat/output/github-contribution-grid-snake.svg"
     />
   </picture>
 </div>
@@ -59,9 +59,10 @@
   <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" alt="Monitoring" />
 </div>
 
-<!-- Projects Section -->
+
+<!-- Projects Section 
 <div align="center">
-  <h2>🚀 Projets Phares en IA</h2>
+  <h2> Projets Phares en IA</h2>
 
   <table>
     <tr>
@@ -114,16 +115,20 @@
   </table>
 </div>
 
+-->
+
 <!-- Social Media -->
 <div align="center">
+
+
   <h2>🌐 Réseaux Sociaux</h2>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramatoulaye-diawane/)
-  [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rahmatulah01?s=11)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ramadiaw12)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adama-sarr-079323201/)
+  [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Adamasarr7837)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](www.linkedin.com/in/adama-sarr-079323201)
   
-[![Reddit](https://img.shields.io/badge/Reddit-5A5A5A?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/superrama_itgirl/s/IaPmMgOqDv)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+<!-- [![Reddit](https://img.shields.io/badge/Reddit-5A5A5A?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/superrama_itgirl/s/IaPmMgOqDv)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me) -->
 </div>
 
 <!-- Contributions -->
