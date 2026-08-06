@@ -19,6 +19,7 @@
 </div>
 
 <!-- GitHub Snake -->
+<!-- GitHub Snake -->
 <div align="center">
   <picture>
     <source
