@@ -9,7 +9,7 @@
 
 <!-- Introduction -->
 <div align="center">
-  <h1>👋 Bonjour, je suis Adama Sarr</h1>
+  <h1>Bonjour, je suis Adama Sarr</h1>
   <h3>AI Infrastructure Engineer & Statitician </h3>
 
  [![Email](https://img.shields.io/badge/Email-adamasarr7837%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:adamasarr7837@gmail.com)
@@ -18,8 +18,7 @@
  
 </div>
 
-<!-- GitHub Snake -->
-<!-- GitHub Snake -->
+<!-- GitHub Snake
 <div align="center">
   <picture>
     <source
@@ -36,6 +35,8 @@
     />
   </picture>
 </div>
+
+-->
 
 <!-- Technologies -->
 <div align="center">
@@ -136,10 +137,10 @@
 <div align="center">
   <h2>🤝 Let's Connect & Collaborate</h2>
 
-  🔍 Explore my AI, Backend & Data Engineering projects<br/>
-  🤖 Collaborate on innovative AI and open-source projects<br/>
-  💡 Share ideas, feedback, or feature suggestions<br/>
-  🌟 If you enjoy my work, don't forget to leave a star!
+     Explore my AI, Backend & Data Engineering projects<br/>
+     Collaborate on innovative AI and open-source projects<br/>
+     Share ideas, feedback, or feature suggestions<br/>
+     If you enjoy my work, don't forget to leave a star!
 </div>
 
 <!-- Languages -->
@@ -152,11 +153,11 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <h2>📊 Statistiques GitHub</h2>
+  <h2>Statistiques GitHub</h2>
 
 </div>
 
 <!-- Footer -->
 <div align="center">
-  <p>🤝 Ouvert aux collaborations en MLOps et infrastructure IA</p>
+  <p>Ouvert aux collaborations en MLOps et infrastructure IA</p>
 </div>
