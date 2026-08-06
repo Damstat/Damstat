@@ -43,10 +43,7 @@
   <h2>💻 Stack Technique (AI Infrastructure)</h2>
 
   #### Langages & Frameworks
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,django,nodejs" alt="AI Languages & Frameworks" />
-
-  #### MLOps & Cloud
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,terraform,jenkins" alt="MLOps & Cloud" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,django" alt="AI Languages & Frameworks" />
 
   #### Outils de Data & LLM
   <p>
@@ -56,9 +53,10 @@
     <img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
   </p>
-
+  <!--
   #### Monitoring & Observabilité
   <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" alt="Monitoring" />
+  -->
 </div>
 
 
