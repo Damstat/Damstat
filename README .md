@@ -12,9 +12,9 @@
   <h1>👋 Bonjour, je suis Ramatoulaye DIAWANE</h1>
   <h3>AI Infrastructure Engineer</h3>
 
- [![Email](https://img.shields.io/badge/Email-superrama86%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:adamasarr7837@gmail.com)
+ [![Email](https://img.shields.io/badge/Email-adamasarr7837%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:adamasarr7837@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Damstat?logo=github&style=flat-square&color=0891b2)](https://github.com/Damstat)
- [![Linkedln](https://img.shields.io/badge/www.linkedin.com%2Fin%2Fadama-sarr-079323201)]
+ [![Linkedln]](https://img.shields.io/badge/www.linkedin.com%2Fin%2Fadama-sarr-079323201)
  
 </div>
 
