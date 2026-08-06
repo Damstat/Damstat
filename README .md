@@ -9,7 +9,7 @@
 
 <!-- Introduction -->
 <div align="center">
-  <h1>👋 Bonjour, je suis Ramatoulaye DIAWANE</h1>
+  <h1>👋 Bonjour, je suis Adama Sarr</h1>
   <h3>AI Infrastructure Engineer</h3>
 
  [![Email](https://img.shields.io/badge/Email-adamasarr7837%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:adamasarr7837@gmail.com)
