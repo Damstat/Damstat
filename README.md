@@ -10,7 +10,7 @@
 <!-- Introduction -->
 <div align="center">
   <h1>Bonjour, je suis Adama Sarr</h1>
-  <h3>AI Infrastructure Engineer & Statitician </h3>
+  <h3>AI Engineer & Statitician </h3>
 
  [![Email](https://img.shields.io/badge/Email-adamasarr7837%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:adamasarr7837@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Damstat?logo=github&style=flat-square&color=0891b2)](https://github.com/Damstat)
